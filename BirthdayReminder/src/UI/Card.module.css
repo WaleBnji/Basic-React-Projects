@@ -1,0 +1,11 @@
+.card {
+  border-radius: 0.25rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+  width: 90vw;
+  /* margin: 0 auto;
+  max-width: 1170px; */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
