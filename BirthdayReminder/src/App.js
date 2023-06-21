@@ -45,7 +45,6 @@ function App() {
   const [people, setPeople] = useState(Data);
   const clearBtnHandler = () => {
     setPeople([]);
-    console.log('clicked');
   };
   return (
     <Card className='bg-[#dfebec] max-w-sm p-4'>
